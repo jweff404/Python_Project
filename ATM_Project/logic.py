@@ -3,6 +3,7 @@ class ATMSession:
         self.balance = initial_balance
         self.transactions = [f"Initial Balance: {initial_balance}"]
 
+    
     def get_balance(self):
         return self.balance
 
