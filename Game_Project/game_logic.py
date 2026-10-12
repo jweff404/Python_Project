@@ -1,4 +1,4 @@
-# game_logic.py
+# Game_logic.py
 import random
 
 def get_computer_choice():
